@@ -1,0 +1,23 @@
+import = [
+    "~/.config/alacritty/themes/thelovelace.toml"
+]
+
+live_config_reload = true
+
+[font]
+size = 22.0
+
+[font.normal]
+family = "SFMono Nerd Font"
+style = "Regular"
+
+[window]
+decorations = "buttonless"
+dynamic_padding = false
+opacity = 0.85
+blur = true
+
+
+[window.padding]
+x = 18
+y = 16
