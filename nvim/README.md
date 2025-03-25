@@ -1,10 +1,10 @@
-#Neovim
+# Neovim
 
 This is my current personal configuration of the Neovim setup, built from scratch.<br>
 If you are interested do check my Nvim Setup.<br>
 Also don't forget to Star my repo if you like it.<br>
 
-#Plugins
+# Plugins
 
 - lazy.nvim
 - catpucchin.nvim
@@ -19,4 +19,4 @@ Also don't forget to Star my repo if you like it.<br>
 - project.nvim
 - LSP
 - mason
-- 
+  
