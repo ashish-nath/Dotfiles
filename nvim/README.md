@@ -2,7 +2,7 @@
 
 This is my current personal configuration of the Neovim setup, built from scratch.<br>
 If you are interested do check my Nvim Setup.<br>
-Also don't forget to Star my repo if you like it.<br>
+Also don't forget to $\color{yellow}{STAR}$ my repo if you like it.<br>
 
 # Plugins
 
