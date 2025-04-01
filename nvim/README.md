@@ -22,3 +22,4 @@ Also don't forget to $\color{yellow}{STAR}$ my repo if you like it.<br>
 - dressing.nvim
 - conform.nvim
 - blink.nvim
+- smart.nvim
